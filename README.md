@@ -1,2 +1,2 @@
-# Blog-website
-Blog website using ejs
+# Daily-journal
+Daily journal using ejs
